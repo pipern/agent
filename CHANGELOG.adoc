@@ -2,6 +2,10 @@
 
 == 0.5.0 - unreleased
 
+=== Fixed
+* Invalid or unreachable repositories are skipped when searching for
+  packages.
+
 == 0.4.0 - 2021-06-23
 
 :188: https://github.com/stackabletech/agent/pull/188[#188]
